@@ -1,7 +1,7 @@
 1. Install Pyro4:
 	Copy code:  pip install Pyro4
 
-2. start the Pyro nameserver using the command in the terminal: pyro4-ns
+2. start the Pyro nameserver using the command in the terminal: pyro4-ns or python -m Pyro4.naming
 
 3. Run the server script: python server.py
 
